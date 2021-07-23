@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pablo #
+# Hi, I’m Pablo #
 
 Welcome to my profile.
 
@@ -6,13 +6,13 @@ Welcome to my profile.
 - 👀 I’m interested in Machine Learning, Backend development, Algorithms
 - 🌱 I’m currently learning PyTorch, Scala.
 
-# 📫 Connect with me #
+# Connect with me #
 
 [![Website](https://img.shields.io/badge/Website-Visit%20my%20webpage-blue?style=for-the-badge)][website]
 
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)][Linkedin]
 
-# ψ Tools and Languages #
+# Tools and Languages #
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
