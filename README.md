@@ -8,8 +8,6 @@ Welcome to my profile.
 
 # 📫 Connect with me #
 
-Visit my website: [<img alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/1d1e8885c5031874b32f4e480e371ce2b1c24144/svg/globe.svg" />][website]
-
 [![Website](https://img.shields.io/badge/Website-Visit%20my%20webpage-blue?style=for-the-badge)][website]
 
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)][Linkedin]
