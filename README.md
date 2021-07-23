@@ -24,7 +24,6 @@ Visit my website: [<img align="right" alt="Personal Website" width="22px" src="h
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 
-<br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVarg&hide=TeX&layout=compact)
 
 [website]: #
