@@ -25,7 +25,6 @@
 <hr />
 
 <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablovarg&" alt="pablovarg" /></p>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablovarg&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="pablovarg" /></p>
 </div>
 
